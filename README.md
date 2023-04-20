@@ -1,26 +1,42 @@
-![Mainhead](https://i.imgur.com/6f2AO6H.gif)
+![Mainhead](https://imgur.com/ekeh3cF.gif)
 
 <h1 align="center">Hi 👋, I'm Rasintha</h1>
 
-<h3 align="center">I am a software developer who is self-taught and committed to constantly upgrading my skills to stay abreast of the latest trends. Despite holding a degree in business management, I chose to pursue my passion for software development. I have nearly two years of experience as a freelance Frontend Developer and UAT tester, proficient in Python, HTML, CSS, and JavaScript. I am currently studying for a second degree in Software Engineering and plan to pursue a Ph.D. I am dedicated to continuous learning and pushing the boundaries of technology. I bring a unique perspective, a commitment to quality, and creative problem-solving skills to my work. If you are looking for a passionate and skilled software developer who can deliver results and exceed expectations, look no further than me. I am committed to helping businesses achieve their goals through innovative software solutions, and I would be honoured to work with you.</h3>
-<p align="center"> <img src = https://i.imgur.com/xb73A2Y.gif align = "center" width = "350" height = "175" alt = "coding">
+<h3 align="center">As a data scientist and machine learning enthusiast, I'm passionate about using data to solve complex problems and build innovative solutions. With expertise in statistical modeling, data visualization, and machine learning algorithms, I bring a unique perspective and a commitment to quality to every project. I'm proficient in programming languages such as Python, R, and SQL, and have experience with popular machine learning frameworks such as TensorFlow and scikit-learn. I'm also dedicated to continuous learning and staying up-to-date with the latest industry trends. I'm excited to collaborate with other data scientists and machine learning enthusiasts on GitHub and contribute to the development of cutting-edge technologies.</h3>
+<p align="center"> <img src = https://imgur.com/71ufOzd.gif align = "center" width = "650" height = "320" alt = "machine">
 
 #
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techpodx&label=Profile%20views&color=0e75b6&style=flat" alt="techpodx" /> </p>
 
 
-- 🔭 I’m currently working on **I am currently working on a data visualization projects & Frontend Development**
+- 🔭 I’m currently working on 
+      <p>- Developing a machine learning model to predict customer churn for a telecommunications company</p>
+      <p>- Exploring natural language processing techniques to analyze customer feedback for a software company</p>
+      <p>- Building a recommendation system for an e-commerce platform using collaborative filtering algorithms</p>
 
-- 🌱 I’m currently learning **BEng(Hons) in Software Engineering**
+- 🌱 I’m currently learning 
+      <p>- Deep learning techniques and neural networks</p>
+      <p>- Advanced statistical modeling and inference</p>
+      <p>- Big data technologies such as Apache Spark and Hadoop</p>
 
-- 👯 I’m looking to collaborate on **Building a web application**
+- 👯 I’m looking to collaborate on 
+      <p>- Open-source machine learning projects</p>
+      <p>- Research papers or publications related to data science and machine learning</p>
+      <p>- Hackathons or data science competitions</p>
 
-- 🤝 I’m looking for help with **Debugging issues related to Python**
+- 🤝 I’m looking for help with 
+      <p>- Tuning hyperparameters for machine learning models</p>
+      <p>- Deploying machine learning models to production environments</p>
+      <p>- Optimizing data pipelines and workflows for efficiency</p>
 
-- 💬 Ask me about **My experience as a freelance developer and working with clients**
+- 💬 Ask me about 
+      <p>- something that can add value to everyone's lives</p>
 
-- 📫 How to reach me **rasinthalahiru@gmail.com**
+- 📫 How to reach me 
+      <p>- LinkedIn: linkedin.com/in/rasintha-lahiru-69034a1b0 </p>
+      <p>- Twitter: https://twitter.com/rasinthalahiru</p>
+      <p>- Email: lahirurasi@gmail.com</p>
 
 - ⚡ Fun fact **I'm a big fan of science fiction**
 
