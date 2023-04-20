@@ -1,4 +1,4 @@
-![Mainhead](https://i.imgur.com/YfcILS6.gif)
+![Mainhead](https://i.imgur.com/6f2AO6H.gif)
 
 <h1 align="center">Hi 👋, I'm Rasintha</h1>
 
