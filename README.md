@@ -17,24 +17,25 @@ Eager to collaborate with fellow developers, I'm an active participant on GitHub
 
 
 - 🔭 I’m currently working on 
-      <p>- Developing a machine learning model to predict customer churn for a telecommunications company</p>
-      <p>- Exploring natural language processing techniques to analyze customer feedback for a software company</p>
-      <p>- Building a recommendation system for an e-commerce platform using collaborative filtering algorithms</p>
+      <p>- Developing a dynamic web application to improve user engagement and retention for an online platform</p>
+      <p>- Implementing responsive design techniques to enhance the user experience for a software application across various devices</p>
+      <p>- Creating a modular and scalable architecture for a multi-category online marketplace, incorporating the latest full-stack development technologies</p>
 
 - 🌱 I’m currently learning 
+      <p>- Advanced web development techniques and mastering full-stack frameworks</p>
+      <p>- Applying statistical modeling and business logic for practical applications in web development</p>
+      <p>- Implementing efficient data handling processes in web applications for optimal performance</p>
       <p>- Deep learning techniques and neural networks</p>
-      <p>- Advanced statistical modeling and inference</p>
-      <p>- Big data technologies such as Apache Spark and Hadoop</p>
 
 - 👯 I’m looking to collaborate on 
-      <p>- Open-source machine learning projects</p>
-      <p>- Research papers or publications related to data science and machine learning</p>
-      <p>- Hackathons or data science competitions</p>
+      <p>- Open-source full-stack development projects</p>
+      <p>- Researching and implementing innovative web development practices</p>
+      <p>- Participating in hackathons or coding competitions focusing on building robust and scalable web applications</p>
 
 - 🤝 I’m looking for help with 
-      <p>- Tuning hyperparameters for machine learning models</p>
-      <p>- Deploying machine learning models to production environments</p>
-      <p>- Optimizing data pipelines and workflows for efficiency</p>
+      <p>- Fine-tuning front-end and back-end interactions to enhance user experiences</p>
+      <p>- Deploying and scaling web applications with advanced features to production environments</p>
+      <p>- Optimizing data storage and retrieval processes for improved web application efficiency</p>
 
 - 💬 Ask me about 
       <p>- something that can add value to everyone's lives</p>
@@ -59,7 +60,7 @@ Eager to collaborate with fellow developers, I'm an active participant on GitHub
 #
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://imgur.com/LSoOl5f" alt="javascript" width="40" height="40"/> </a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techpodx&show_icons=true&locale=en&layout=compact" alt="techpodx" /></p>
 
