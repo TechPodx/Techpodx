@@ -2,7 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Rasintha</h1>
 
-<h3 align="center">As a data scientist and machine learning enthusiast, I'm passionate about using data to solve complex problems and build innovative solutions. With expertise in statistical modeling, data visualization, and machine learning algorithms, I bring a unique perspective and a commitment to quality to every project. I'm proficient in programming languages such as Python, R, and SQL, and have experience with popular machine learning frameworks such as TensorFlow and scikit-learn. I'm also dedicated to continuous learning and staying up-to-date with the latest industry trends. I'm excited to collaborate with other data scientists and machine learning enthusiasts on GitHub and contribute to the development of cutting-edge technologies.</h3>
+<h3 align="center">Hey there! I'm a dedicated full-stack developer with a strong passion for crafting robust applications that seamlessly blend frontend and backend elements. My expertise spans a variety of programming languages, including JavaScript, C#, and Python, allowing me to bring versatility to my projects. I specialize in backend development using frameworks such as Node.js and Django, where I create powerful server-side logic and manage data effectively.
+
+On the frontend, I excel in designing intuitive and visually appealing user interfaces by leveraging modern technologies like React and Vue.js. CSS and HTML are second nature to me, ensuring a functional and aesthetically pleasing user experience.
+
+While my primary focus is on expanding my proficiency in full-stack development, I'm also actively engaged in the exciting realm of Machine Learning and AI. I'm currently working on hands-on projects to deepen my understanding and contribute meaningfully to this evolving field.
+
+Eager to collaborate with fellow developers, I'm an active participant on GitHub, where I contribute to cutting-edge technologies and immerse myself in the vibrant community of frontend and backend enthusiasts. Let's build something amazing together!</h3>
 <p align="center"> <img src = https://imgur.com/71ufOzd.gif align = "center" width = "650" height = "320" alt = "machine">
 
 #
