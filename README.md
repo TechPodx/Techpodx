@@ -82,7 +82,7 @@ Eager to collaborate with fellow developers, I'm an active participant on GitHub
       <img src="https://streak-stats.demolab.com?user=techpodx" alt= "status"/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TechPodx&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=techpodx&theme=dracula)](https://git.io/streak-stats)
 
 
 
