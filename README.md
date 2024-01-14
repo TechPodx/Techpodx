@@ -61,7 +61,7 @@ Eager to collaborate with fellow developers, I'm an active participant on GitHub
 
 <h3 align="center">Languages and Tools</h3><br/>
 
-<p align="left"> 
+<p align="center"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -76,18 +76,24 @@ Eager to collaborate with fellow developers, I'm an active participant on GitHub
 
 #
 
-<h3 align="center">Languages and Tools</h3><br/>
+<h3 align="center">Languages Used Status</h3><br/>
 
 <div align="center">
-      <img src="https://streak-stats.demolab.com?user=TechPodx&theme=dracula" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techpodx&show_icons=true&locale=en&layout=compact" alt="techpodx" />
 </div>
+
+<div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechPodx&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="techpodx" />
+</div>
+
+
 
 #
 
 <h3 align="center">Streak Status</h3><br/>
 
 <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techpodx&show_icons=true&locale=en&layout=compact" alt="techpodx" />
+      <img src="https://streak-stats.demolab.com?user=TechPodx&theme=dracula" alt="GitHub Streak" />
 </div>
 
 #
