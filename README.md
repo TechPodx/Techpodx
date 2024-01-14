@@ -45,7 +45,7 @@
 
 #
 
-<h3 align="center">🔗 <ins>Connect with me</ins>ins></h3><br/>
+<h3 align="center">🔗 <ins>Connect with me</ins></h3><br/>
 
 <p align="center"> 
   <a href="https://twitter.com/rasinthalahiru" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasinthalahiru" height="50" width="50" /></a>
@@ -55,7 +55,7 @@
 
 #
 
-<h3 align="center">👨🏽‍💻 <u>Languages and Tools<u></h3><br/>
+<h3 align="center">👨🏽‍💻 <ins>Languages and Tools</ins></h3><br/>
 
 <p align="center"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
@@ -72,7 +72,7 @@
 
 #
 
-<h3 align="center">📊 Languages Used Status</h3><br/>
+<h3 align="center">📊 <ins>Languages Used Status</ins></h3><br/>
 
 <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechPodx&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="techpodx" />
@@ -80,7 +80,7 @@
 
 #
 
-<h3 align="center">🔥 Streak Status</h3><br/>
+<h3 align="center">🔥 <ins>Streak Status</ins></h3><br/>
 
 <div align="center">
       <img src="https://streak-stats.demolab.com?user=TechPodx&theme=dracula" alt="GitHub Streak" />
@@ -88,7 +88,7 @@
 
 #
 
-<h3 align="center">⭐ Github Status</h3><br/>
+<h3 align="center">⭐ <ins>Github Status</ins></h3><br/>
 
 <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=TechPodx&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub Streak" />
@@ -96,7 +96,7 @@
 
 #
 
-<h3 align="center">🏆 GitHub Profile Trophy</h3><br/>
+<h3 align="center">🏆 <ins>GitHub Profile Trophy</ins></h3><br/>
 
 <div align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=techpodx&theme=dracula" alt="techpodx" />
