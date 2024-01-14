@@ -54,11 +54,10 @@
 
 <h3 align="center">🔗 Connect with me</h3><br/>
 
-<p align="center"> <a href="https://twitter.com/rasinthalahiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasinthalahiru" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21475769/rasintha-lahiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21475769/rasintha-lahiru" height="30" width="40" /></a>
+<p align="center"> 
+  <a href="https://twitter.com/rasinthalahiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasinthalahiru" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21475769/rasintha-lahiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21475769/rasintha-lahiru" height="30" width="40" /></a>
 </p>
-
-<p align="left"> <a href="https://twitter.com/rasinthalahiru" target="blank"><img src="https://img.shields.io/twitter/follow/rasinthalahiru?logo=twitter&style=for-the-badge" alt="rasinthalahiru" /></a> </p>
 
 #
 
@@ -70,7 +69,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
       <img src="https://github.com/TechPodx/Style-Repo/blob/fbb2323edea5d7fb97109aeebc56663750c9289c/Images/react.png" alt="react" width="40" height="40"/>
       <img src="https://github.com/TechPodx/Style-Repo/blob/fbb2323edea5d7fb97109aeebc56663750c9289c/Images/redux.png" alt="redux" width="40" height="40"/>
-      <img src="https://github.com/TechPodx/Style-Repo/blob/fbb2323edea5d7fb97109aeebc56663750c9289c/Images/nodeJS.png" alt="nodejs" width="40" height="40"/>
+      <img src="https://github.com/TechPodx/Style-Repo/blob/fbb2323edea5d7fb97109aeebc56663750c9289c/Images/nodeJS.png" alt="nodejs" width="60" height="60"/>
       <img src="https://github.com/TechPodx/Style-Repo/blob/fbb2323edea5d7fb97109aeebc56663750c9289c/Images/expressJS.png" alt="expressjs" width="40" height="40"/>
       <img src="https://github.com/TechPodx/Style-Repo/blob/fbb2323edea5d7fb97109aeebc56663750c9289c/Images/postgresql.png" alt="postgresql" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
