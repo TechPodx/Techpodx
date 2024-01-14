@@ -76,7 +76,9 @@ Eager to collaborate with fellow developers, I'm an active participant on GitHub
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techpodx&show_icons=true&locale=en&layout=compact" alt="techpodx" /></p>
 
 #
+<p align= "center">
+      <img src="https://streak-stats.demolab.com?user=TechPodx&theme=dracula" alt="GitHub Streak" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=TechPodx&theme=dracula" alt="GitHub Streak" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techpodx" alt="techpodx" /></a> </p>
