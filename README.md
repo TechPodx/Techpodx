@@ -83,5 +83,7 @@ Eager to collaborate with fellow developers, I'm an active participant on GitHub
 </p>
 
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TechPodx&theme=dracula" alt="GitHub Streak" /></a>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techpodx" alt="techpodx" /></a> </p>
