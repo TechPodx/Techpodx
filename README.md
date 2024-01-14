@@ -11,7 +11,7 @@
 <h3 align="center">Eager to collaborate with fellow developers, I'm an active participant on GitHub, where I contribute to cutting-edge technologies and immerse myself in the vibrant community of frontend and backend enthusiasts. Let's build something amazing together!</h3><br/>
 
 <p align="left">
-  <img src="https://github.com/TechPodx/Style-Repo/blob/fa1755484ab9e533ce8c0d4e9c01712b4f3ff839/Gif/Designerbuildingwebsite-ezgif.com-crop.gif" align="center" width="800" height="624" alt="walking man">
+  <img src="https://github.com/TechPodx/Style-Repo/blob/1cf22f6ff54f86e0dd141ac4c3852c572beee1ba/Gif/UserInterface-ezgif.com-crop.gif" align="center" width="800" height="624" alt="walking man">
 </p>
 
 #
