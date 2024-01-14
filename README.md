@@ -48,9 +48,9 @@
 <h3 align="center">🔗 Connect with me</h3><br/>
 
 <p align="center"> 
-  <a href="https://twitter.com/rasinthalahiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasinthalahiru" height="50" width="50" /></a>
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21475769/rasintha-lahiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21475769/rasintha-lahiru" height="50" width="50" /></a>
-  <a href="https://www.linkedin.com/in/rasintha-lahiru/" target="blank"><img align="center" src="https://github.com/TechPodx/Style-Repo/blob/5b4f20aaf3e73a96fa84964c0d204c5c0f0893cb/Images/LinkedIn.png" alt="LinkedIn" height="50" width="50" /></a>
+  <a href="https://twitter.com/rasinthalahiru" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasinthalahiru" height="50" width="50" /></a>
+  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21475769/rasintha-lahiru" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21475769/rasintha-lahiru" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/rasintha-lahiru/" target="_blank"><img align="center" src="https://github.com/TechPodx/Style-Repo/blob/5b4f20aaf3e73a96fa84964c0d204c5c0f0893cb/Images/LinkedIn.png" alt="LinkedIn" height="50" width="50" /></a>
 </p>
 
 #
@@ -58,16 +58,16 @@
 <h3 align="center">👨🏽‍💻 Languages and Tools</h3><br/>
 
 <p align="center"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-      <img src="https://github.com/TechPodx/Style-Repo/blob/fbb2323edea5d7fb97109aeebc56663750c9289c/Images/react.png" alt="react" width="40" height="40"/>
-      <img src="https://github.com/TechPodx/Style-Repo/blob/fbb2323edea5d7fb97109aeebc56663750c9289c/Images/redux.png" alt="redux" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+      <img src="https://github.com/TechPodx/Style-Repo/blob/fbb2323edea5d7fb97109aeebc56663750c9289c/Images/react.png" alt="react" width="50" height="50"/>
+      <img src="https://github.com/TechPodx/Style-Repo/blob/fbb2323edea5d7fb97109aeebc56663750c9289c/Images/redux.png" alt="redux" width="50" height="50"/>
       <img src="https://github.com/TechPodx/Style-Repo/blob/fbb2323edea5d7fb97109aeebc56663750c9289c/Images/nodeJS.png" alt="nodejs" width="60" height="60"/>
-      <img src="https://github.com/TechPodx/Style-Repo/blob/fbb2323edea5d7fb97109aeebc56663750c9289c/Images/expressJS.png" alt="expressjs" width="40" height="40"/>
-      <img src="https://github.com/TechPodx/Style-Repo/blob/fbb2323edea5d7fb97109aeebc56663750c9289c/Images/postgresql.png" alt="postgresql" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-      <img src="https://github.com/TechPodx/Style-Repo/blob/0845876a25015d08e3c685c54524846ed4867c93/C%23.png" alt="C#" width="40" height="40"/>
+      <img src="https://github.com/TechPodx/Style-Repo/blob/fbb2323edea5d7fb97109aeebc56663750c9289c/Images/expressJS.png" alt="expressjs" width="50" height="50"/>
+      <img src="https://github.com/TechPodx/Style-Repo/blob/fbb2323edea5d7fb97109aeebc56663750c9289c/Images/postgresql.png" alt="postgresql" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
+      <img src="https://github.com/TechPodx/Style-Repo/blob/0845876a25015d08e3c685c54524846ed4867c93/C%23.png" alt="C#" width="50" height="50"/>
 </p>
 
 #
