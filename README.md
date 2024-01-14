@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rasintha</h1>
 
-<h3 align="center">I'm a dedicated full-stack developer with a strong passion for crafting robust applications that seamlessly blend frontend and backend elements. My expertise spans a variety of programming languages, including JavaScript, C#, and Python, allowing me to bring versatility to my projects. I specialize in backend development using frameworks such as Express.js , where I create powerful server-side logic and manage data effectively.</h3>
+<h3 align="center">I'm a dedicated full-stack developer with a strong passion for crafting robust applications that seamlessly blend frontend and backend elements. My expertise spans a variety of programming languages, including JavaScript, React.js, C#, and Python, allowing me to bring versatility to my projects. I specialize in backend development using frameworks such as Express.js , where I create powerful server-side logic and manage data effectively.</h3>
 
 <h3 align="center">On the frontend, I excel in designing intuitive and visually appealing user interfaces by leveraging modern technologies like React and Vue.js. CSS and HTML are second nature to me, ensuring a functional and aesthetically pleasing user experience.</h3>
 
@@ -43,20 +43,14 @@
 - 💬 Ask me about 
       <p>- something that can add value to everyone's lives</p>
 
-- 📫 How to reach me 
-      <p>- LinkedIn: linkedin.com/in/rasintha-lahiru-69034a1b0 </p>
-      <p>- Twitter: https://twitter.com/rasinthalahiru</p>
-      <p>- Email: lahirurasi@gmail.com</p>
-
-- ⚡ Fun fact **I'm a big fan of science fiction**
-
 #
 
 <h3 align="center">🔗 Connect with me</h3><br/>
 
 <p align="center"> 
-  <a href="https://twitter.com/rasinthalahiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasinthalahiru" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21475769/rasintha-lahiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21475769/rasintha-lahiru" height="30" width="40" /></a>
+  <a href="https://twitter.com/rasinthalahiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasinthalahiru" height="50" width="50" /></a>
+  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21475769/rasintha-lahiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21475769/rasintha-lahiru" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/rasintha-lahiru/" target="blank"><img align="center" src="https://github.com/TechPodx/Style-Repo/blob/5b4f20aaf3e73a96fa84964c0d204c5c0f0893cb/Images/LinkedIn.png" alt="LinkedIn" height="50" width="50" /></a>
 </p>
 
 #
