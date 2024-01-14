@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Rasintha</h1>
 
-<h3 align="center">I'm a dedicated full-stack developer with a strong passion for crafting robust applications that seamlessly blend frontend and backend elements. My expertise spans a variety of programming languages, including JavaScript, C#, and Python, allowing me to bring versatility to my projects. I specialize in backend development using frameworks such as Node.js and Django, where I create powerful server-side logic and manage data effectively.<br/>
+<h3 align="center">I'm a dedicated full-stack developer with a strong passion for crafting robust applications that seamlessly blend frontend and backend elements. My expertise spans a variety of programming languages, including JavaScript, C#, and Python, allowing me to bring versatility to my projects. I specialize in backend development using frameworks such as Express.js , where I create powerful server-side logic and manage data effectively.</h3><br/>
 
-On the frontend, I excel in designing intuitive and visually appealing user interfaces by leveraging modern technologies like React and Vue.js. CSS and HTML are second nature to me, ensuring a functional and aesthetically pleasing user experience.
+<h3 align="center">On the frontend, I excel in designing intuitive and visually appealing user interfaces by leveraging modern technologies like React and Vue.js. CSS and HTML are second nature to me, ensuring a functional and aesthetically pleasing user experience.
 
 While my primary focus is on expanding my proficiency in full-stack development, I'm also actively engaged in the exciting realm of Machine Learning and AI. I'm currently working on hands-on projects to deepen my understanding and contribute meaningfully to this evolving field.
 
@@ -12,6 +12,12 @@ Eager to collaborate with fellow developers, I'm an active participant on GitHub
 
 <p align="center">
   <img src="https://imgur.com/71ufOzd.gif" align="center" width="650" height="320" alt="machine" style="border-radius: 5px;">
+</p>
+
+<p align="center">
+  <div style="border-radius: 5px; overflow: hidden;">
+    <img src="https://imgur.com/71ufOzd.gif" width="650" height="320" alt="machine">
+  </div>
 </p>
 
 #
