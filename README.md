@@ -78,9 +78,9 @@ Eager to collaborate with fellow developers, I'm an active participant on GitHub
 #
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techpodx&" alt="techpodx" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=&theme=dracula?user=techpodx&" alt="techpodx" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dracula)](https://git.io/streak-stats)
+<p align="center">
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+</p>
 
 
 
