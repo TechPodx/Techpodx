@@ -11,12 +11,12 @@
 <h3 align="center">Eager to collaborate with fellow developers, I'm an active participant on GitHub, where I contribute to cutting-edge technologies and immerse myself in the vibrant community of frontend and backend enthusiasts. Let's build something amazing together!</h3><br/>
 
 <p align="left">
-  <img src="https://github.com/TechPodx/Style-Repo/blob/0c203915f3531cd0e6f5b92a144d7991a2578301/Gif/dayNight.gif" align="center" width="800" height="600" alt="walking man">
+  <img src="https://github.com/TechPodx/Style-Repo/blob/86ad0a702ea6546b0c20ac1c50a7fb0291dfecfc/Gif/Designer%20building%20website.gif" align="center" width="800" height="800" alt="walking man">
 </p>
 
 #
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techpodx&label=Profile%20views&color=0e75b6&style=flat" alt="techpodx" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=techpodx&label=Profile%20views&color=0e75b6&style=flat" alt="techpodx" /> </p>
 
 
 - 🔭 I’m currently working on 
