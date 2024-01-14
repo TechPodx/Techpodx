@@ -76,10 +76,10 @@ Eager to collaborate with fellow developers, I'm an active participant on GitHub
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techpodx&show_icons=true&locale=en&layout=compact" alt="techpodx" /></p>
 
 #
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techpodx&" alt="techpodx" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=techpodx&" alt="techpodx" /></p>
 
 <p align="center">
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+      <img src="https://streak-stats.demolab.com?user=techpodx" alt= "status"/>
 </p>
 
 
