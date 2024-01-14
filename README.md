@@ -4,11 +4,11 @@
 
 <h3 align="center">I'm a dedicated full-stack developer with a strong passion for crafting robust applications that seamlessly blend frontend and backend elements. My expertise spans a variety of programming languages, including JavaScript, C#, and Python, allowing me to bring versatility to my projects. I specialize in backend development using frameworks such as Express.js , where I create powerful server-side logic and manage data effectively.</h3>
 
-<h3 align="center">On the frontend, I excel in designing intuitive and visually appealing user interfaces by leveraging modern technologies like React and Vue.js. CSS and HTML are second nature to me, ensuring a functional and aesthetically pleasing user experience.
+<h3 align="center">On the frontend, I excel in designing intuitive and visually appealing user interfaces by leveraging modern technologies like React and Vue.js. CSS and HTML are second nature to me, ensuring a functional and aesthetically pleasing user experience.</h3>
 
-While my primary focus is on expanding my proficiency in full-stack development, I'm also actively engaged in the exciting realm of Machine Learning and AI. I'm currently working on hands-on projects to deepen my understanding and contribute meaningfully to this evolving field.
+<h3 align="center">While my primary focus is on expanding my proficiency in full-stack development, I'm also actively engaged in the exciting realm of Machine Learning and AI. I'm currently working on hands-on projects to deepen my understanding and contribute meaningfully to this evolving field.</h3>
 
-Eager to collaborate with fellow developers, I'm an active participant on GitHub, where I contribute to cutting-edge technologies and immerse myself in the vibrant community of frontend and backend enthusiasts. Let's build something amazing together!</h3><br/>
+<h3 align="center">Eager to collaborate with fellow developers, I'm an active participant on GitHub, where I contribute to cutting-edge technologies and immerse myself in the vibrant community of frontend and backend enthusiasts. Let's build something amazing together!</h3><br/>
 
 <p align="center">
   <img src="https://imgur.com/71ufOzd.gif" align="center" width="650" height="320" alt="machine">
