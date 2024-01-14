@@ -10,12 +10,9 @@
 
 <h3 align="center">Eager to collaborate with fellow developers, I'm an active participant on GitHub, where I contribute to cutting-edge technologies and immerse myself in the vibrant community of frontend and backend enthusiasts. Let's build something amazing together!</h3><br/>
 
-<p align="center">
-  <img src="https://tenor.com/bSNEU.gif" align="center" width="650" height="320" alt="machine">
+<p align="left">
+  <img src="https://github.com/TechPodx/Style-Repo/blob/0c203915f3531cd0e6f5b92a144d7991a2578301/Gif/man.gif" align="center" width="376" height="588" alt="walking man">
 </p>
-
-https://tenor.com/bSNEU.gif
-https://imgur.com/71ufOzd.gif
 
 #
 
