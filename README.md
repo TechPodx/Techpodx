@@ -74,17 +74,14 @@ Eager to collaborate with fellow developers, I'm an active participant on GitHub
 </p>
 
 #
+
 <div align="center">
   <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techpodx&show_icons=true&locale=en&layout=compact" alt="techpodx" />
+      <p></p>
     <img src="https://streak-stats.demolab.com?user=TechPodx&theme=dracula" alt="GitHub Streak" />
   </div>
 </div>
-
-<p align= "center">
-      <p align= "left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techpodx&show_icons=true&locale=en&layout=compact" alt="techpodx"/></p>
-      <p align= "right"><img src="https://streak-stats.demolab.com?user=TechPodx&theme=dracula" alt="GitHub Streak" /></p>
-</p>
 
 #
 
