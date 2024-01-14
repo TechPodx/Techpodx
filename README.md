@@ -2,14 +2,17 @@
 
 <h1 align="center">Hi 👋, I'm Rasintha</h1>
 
-<h3 align="center">I'm a dedicated full-stack developer with a strong passion for crafting robust applications that seamlessly blend frontend and backend elements. My expertise spans a variety of programming languages, including JavaScript, C#, and Python, allowing me to bring versatility to my projects. I specialize in backend development using frameworks such as Node.js and Django, where I create powerful server-side logic and manage data effectively.
+<h3 align="center">I'm a dedicated full-stack developer with a strong passion for crafting robust applications that seamlessly blend frontend and backend elements. My expertise spans a variety of programming languages, including JavaScript, C#, and Python, allowing me to bring versatility to my projects. I specialize in backend development using frameworks such as Node.js and Django, where I create powerful server-side logic and manage data effectively.<br/>
 
 On the frontend, I excel in designing intuitive and visually appealing user interfaces by leveraging modern technologies like React and Vue.js. CSS and HTML are second nature to me, ensuring a functional and aesthetically pleasing user experience.
 
 While my primary focus is on expanding my proficiency in full-stack development, I'm also actively engaged in the exciting realm of Machine Learning and AI. I'm currently working on hands-on projects to deepen my understanding and contribute meaningfully to this evolving field.
 
-Eager to collaborate with fellow developers, I'm an active participant on GitHub, where I contribute to cutting-edge technologies and immerse myself in the vibrant community of frontend and backend enthusiasts. Let's build something amazing together!</h3>
-<p align="center"> <img src = https://imgur.com/71ufOzd.gif align = "center" width = "650" height = "320" alt = "machine">
+Eager to collaborate with fellow developers, I'm an active participant on GitHub, where I contribute to cutting-edge technologies and immerse myself in the vibrant community of frontend and backend enthusiasts. Let's build something amazing together!</h3><br/>
+
+<p align="center">
+  <img src="https://imgur.com/71ufOzd.gif" align="center" width="650" height="320" alt="machine" style="border-radius: 5px;">
+</p>
 
 #
 
@@ -51,7 +54,7 @@ Eager to collaborate with fellow developers, I'm an active participant on GitHub
 
 <h3 align="center">🔗 Connect with me</h3><br/>
 
-<p align="left"> <a href="https://twitter.com/rasinthalahiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasinthalahiru" height="30" width="40" /></a>
+<p align="center"> <a href="https://twitter.com/rasinthalahiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasinthalahiru" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21475769/rasintha-lahiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21475769/rasintha-lahiru" height="30" width="40" /></a>
 </p>
 
