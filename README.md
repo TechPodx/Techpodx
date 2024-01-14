@@ -101,3 +101,9 @@ Eager to collaborate with fellow developers, I'm an active participant on GitHub
 #
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techpodx" alt="techpodx" /></a></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techpodx&theme=dracula" alt="techpodx" /></a></p>
+
+
+
+
