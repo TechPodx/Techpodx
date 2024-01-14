@@ -79,14 +79,8 @@ Eager to collaborate with fellow developers, I'm an active participant on GitHub
 <h3 align="center">Languages Used Status</h3><br/>
 
 <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techpodx&show_icons=true&locale=en&layout=compact" alt="techpodx" />
-</div>
-
-<div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechPodx&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="techpodx" />
 </div>
-
-
 
 #
 
@@ -98,4 +92,12 @@ Eager to collaborate with fellow developers, I'm an active participant on GitHub
 
 #
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techpodx" alt="techpodx" /></a> </p>
+<h3 align="center">Github Status</h3><br/>
+
+<div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=TechPodx&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub Streak" />
+</div>
+
+#
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techpodx" alt="techpodx" /></a></p>
