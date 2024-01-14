@@ -73,12 +73,12 @@ Eager to collaborate with fellow developers, I'm an active participant on GitHub
       <img src="https://github.com/TechPodx/Style-Repo/blob/0845876a25015d08e3c685c54524846ed4867c93/C%23.png" alt="C#" width="40" height="40"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techpodx&show_icons=true&locale=en&layout=compact" alt="techpodx" /></p>
-
 #
 <p align= "center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techpodx&show_icons=true&locale=en&layout=compact" alt="techpodx" />
       <img src="https://streak-stats.demolab.com?user=TechPodx&theme=dracula" alt="GitHub Streak" />
 </p>
 
+#
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techpodx" alt="techpodx" /></a> </p>
