@@ -55,7 +55,7 @@
 
 #
 
-<h3 align="center">👨🏽‍💻 <ins>Languages and Tools</ins></h3><br/>
+<h3 align="center">👨🏽‍💻 <ins>Languages</ins></h3><br/>
 
 <p align="center"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
@@ -68,6 +68,24 @@
       <img src="https://github.com/TechPodx/Style-Repo/blob/fbb2323edea5d7fb97109aeebc56663750c9289c/Images/postgresql.png" alt="postgresql" width="50" height="50"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
       <img src="https://github.com/TechPodx/Style-Repo/blob/0845876a25015d08e3c685c54524846ed4867c93/C%23.png" alt="C#" width="50" height="50"/>
+</p>
+
+#
+
+<h3 align="center">⛏️ <ins>Tools</ins></h3><br/>
+
+<p align="center"> 
+      <img src="https://github.com/TechPodx/Style-Repo/blob/ff6e7bf92f160be1689810b59edef448a7c6362b/Images/Tools/aws.png" alt="aws" width="50" height="50"/> 
+      <img src="https://github.com/TechPodx/Style-Repo/blob/ff6e7bf92f160be1689810b59edef448a7c6362b/Images/Tools/docker.png" alt="docker" width="50" height="50"/> 
+      <img src="https://github.com/TechPodx/Style-Repo/blob/ff6e7bf92f160be1689810b59edef448a7c6362b/Images/Tools/figma.png" alt="figma" width="50" height="50"/>
+      <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/git.png" alt="git" width="50" height="50"/>
+      <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/github.png" alt="github" width="50" height="50"/>
+      <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/jira.png" alt="jira" width="50" height="50"/>
+      <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/notepad%2B%2B.png" alt="notepad++" width="50" height="50"/>
+      <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/npm.png" alt="npm" width="50" height="50"/>
+      <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/yarn.png" alt="yarn" width="50" height="50"/> 
+      <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/vs%20code.png" alt="vs code" width="50" height="50"/>
+      <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/visual%20studio.png" alt="visual studio" width="50" height="50"/>
 </p>
 
 #
