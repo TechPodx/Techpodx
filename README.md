@@ -75,6 +75,8 @@
 <h3 align="center">⛏️ <ins>Tools</ins></h3><br/>
 
 <p align="center"> 
+      <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/vs%20code.png" alt="vs code" width="50" height="50"/>
+      <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/visual%20studio.png" alt="visual studio" width="50" height="50"/>
       <img src="https://github.com/TechPodx/Style-Repo/blob/ff6e7bf92f160be1689810b59edef448a7c6362b/Images/Tools/aws.png" alt="aws" width="50" height="50"/> 
       <img src="https://github.com/TechPodx/Style-Repo/blob/ff6e7bf92f160be1689810b59edef448a7c6362b/Images/Tools/docker.png" alt="docker" width="50" height="50"/> 
       <img src="https://github.com/TechPodx/Style-Repo/blob/ff6e7bf92f160be1689810b59edef448a7c6362b/Images/Tools/figma.png" alt="figma" width="50" height="50"/>
@@ -84,8 +86,6 @@
       <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/notepad%2B%2B.png" alt="notepad++" width="50" height="50"/>
       <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/npm.png" alt="npm" width="50" height="50"/>
       <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/yarn.png" alt="yarn" width="50" height="50"/> 
-      <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/vs%20code.png" alt="vs code" width="50" height="50"/>
-      <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/visual%20studio.png" alt="visual studio" width="50" height="50"/>
 </p>
 
 #
