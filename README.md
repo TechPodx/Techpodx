@@ -80,6 +80,7 @@
       <img src="https://github.com/TechPodx/Style-Repo/blob/ff6e7bf92f160be1689810b59edef448a7c6362b/Images/Tools/aws.png" alt="aws" width="50" height="50"/> 
       <img src="https://github.com/TechPodx/Style-Repo/blob/ff6e7bf92f160be1689810b59edef448a7c6362b/Images/Tools/docker.png" alt="docker" width="50" height="50"/> 
       <img src="https://github.com/TechPodx/Style-Repo/blob/ff6e7bf92f160be1689810b59edef448a7c6362b/Images/Tools/figma.png" alt="figma" width="50" height="50"/>
+      <img src="https://github.com/TechPodx/Style-Repo/blob/507b989a153894719aede86c645e832652efb4ad/Images/Wordpress.png" alt="Wordpress" width="50" height="50"/>
       <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/git.png" alt="git" width="50" height="50"/>
       <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/github.png" alt="github" width="50" height="50"/>
       <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/jira.png" alt="jira" width="50" height="50"/>
