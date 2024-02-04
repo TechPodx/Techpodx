@@ -87,6 +87,7 @@
       <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/notepad%2B%2B.png" alt="notepad++" width="50" height="50"/>
       <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/npm.png" alt="npm" width="50" height="50"/>
       <img src="https://github.com/TechPodx/Style-Repo/blob/79432a887b1cf62f9d74e8c5a8b18b23e88d6e94/Images/Tools/yarn.png" alt="yarn" width="50" height="50"/> 
+      <img src="https://github.com/TechPodx/Style-Repo/blob/6cfda225f31785d3bcbdafaf381431cc00e59069/Images/jest.png" alt="yarn" width="50" height="50"/>
       <img src="https://github.com/TechPodx/Style-Repo/blob/54ec237910e17a606aafd1893bf3db88f8e883a2/Images/netlify-logot.png" alt="netlify" width="50" height="50"/>
 </p>
 
