@@ -9,7 +9,7 @@
 <h3 align="center">Eager to collaborate with fellow developers, I'm an active participant on GitHub, where I contribute to cutting-edge technologies and immerse myself in the vibrant community of Data Science enthusiasts. Let's build something amazing together!</h3><br/>
 
 <p align="left">
-  <img src="https://pouch.jumpshare.com/preview/cBfTmmH-VQGPag52kHccK2MtnEjBFG-HCLwiMsYPGaMOWqvnnzxRtr6s9SfDf9vsOGxGNYWDf72XaznCLYffPFbn_MT_e4Uf_dwhZovsiQM" align="center" width="800" height="624" alt="walking man">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2V1d3NqNnFuMDJiN3U1bHFnNzRtbDFvOXV5emZyMnd3YmoxcjM4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BJG1tEnvt8AzzQQxja/giphy.gif" align="center" width="800" height="624" alt="walking man">
 </p>
 
 #
