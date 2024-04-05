@@ -2,16 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Rasintha</h1>
 
-<h3 align="center">I'm a dedicated full-stack developer with a strong passion for crafting robust applications that seamlessly blend frontend and backend elements. My expertise spans a variety of programming languages, including JavaScript, React.js, C#, and Python, allowing me to bring versatility to my projects. I specialize in backend development using frameworks such as Express.js , where I create powerful server-side logic and manage data effectively.</h3>
+<h3 align="center">'I am currently exploring the exciting fields of data science and machine learning as a React full-stack web developer. With a background in Accounting and Finance, I'm eager to merge my programming skills with analytical expertise to tackle new challenges in this fast-growing area</h3>
 
-<h3 align="center">On the frontend, I excel in designing intuitive and visually appealing user interfaces by leveraging modern technologies like React.js. CSS and HTML are second nature to me, ensuring a functional and aesthetically pleasing user experience.</h3>
+<h3 align="center">In Data Science, I delve deep into data analysis using modern techniques such as machine learning, deep learning, and predictive modeling. By applying these advanced methodologies, I uncover hidden patterns and insights within the data. My goal is to utilize these techniques to address critical issues and provide innovative solutions.</h3>
 
-<h3 align="center">While my primary focus is on expanding my proficiency in full-stack development, I'm also actively engaged in the exciting realm of Machine Learning and AI. I'm currently working on hands-on projects to deepen my understanding and contribute meaningfully to this evolving field.</h3>
-
-<h3 align="center">Eager to collaborate with fellow developers, I'm an active participant on GitHub, where I contribute to cutting-edge technologies and immerse myself in the vibrant community of frontend and backend enthusiasts. Let's build something amazing together!</h3><br/>
+<h3 align="center">Eager to collaborate with fellow developers, I'm an active participant on GitHub, where I contribute to cutting-edge technologies and immerse myself in the vibrant community of Data Science enthusiasts. Let's build something amazing together!</h3><br/>
 
 <p align="left">
-  <img src="https://github.com/TechPodx/Style-Repo/blob/1cf22f6ff54f86e0dd141ac4c3852c572beee1ba/Gif/UserInterface-ezgif.com-crop.gif" align="center" width="800" height="624" alt="walking man">
+  <img src="https://i.ibb.co/wWSsdtv/User-Interface-ezgif-com-crop.gif" align="center" width="800" height="624" alt="walking man">
 </p>
 
 #
