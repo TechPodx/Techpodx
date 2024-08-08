@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rasintha</h1>
 
-<h3 align="center">'I am currently exploring the exciting fields of data science and machine learning as a React full-stack web developer. With a background in Accounting and Finance, I'm eager to merge my programming skills with analytical expertise to tackle new challenges in this fast-growing area</h3>
+<h3 align="center">'I am currently exploring the exciting fields of data science and machine learning as a React Frontend Web Developer and Digital Marketing Specialist. I'm eager to merge my programming knowledge plus marketing skills with analytical expertise to tackle new challenges in this fast-growing area</h3>
 
 <h3 align="center">In Data Science, I delve deep into data analysis using modern techniques such as machine learning, deep learning, and predictive modeling. By applying these advanced methodologies, I uncover hidden patterns and insights within the data. My goal is to utilize these techniques to address critical issues and provide innovative solutions.</h3>
 
