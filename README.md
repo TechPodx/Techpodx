@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Rasintha</h1>
 
-<h3 align="center">'I am currently exploring the exciting fields of data science and machine learning as a React Frontend Web Developer and Digital Marketing Specialist. I'm eager to merge my programming knowledge plus marketing skills with analytical expertise to tackle new challenges in this fast-growing area</h3>
+<h3 align="center">'I am a tech-driven problem solver with a strong foundation in data analytics, RPA development, and modern web technologies. With hands-on experience automating business processes using UiPath, building responsive frontend applications with React, and applying machine learning tools for data-driven insights, I bring a versatile and practical skill set.</h3>
 
-<h3 align="center">In Data Science, I delve deep into data analysis using modern techniques such as machine learning, deep learning, and predictive modeling. By applying these advanced methodologies, I uncover hidden patterns and insights within the data. My goal is to utilize these techniques to address critical issues and provide innovative solutions.</h3>
+<h3 align="center">I also have advanced knowledge of Excel and Power BI for data analysis and visualization. Over the years, I have supported cross functional teams in both freelance and collaborative roles, contributing to a wide range of projects, from streamlining administrative tasks through automation to delivering full-scale digital and analytical solutions.</h3>
 
-<h3 align="center">Eager to collaborate with fellow developers, I'm an active participant on GitHub, where I contribute to cutting-edge technologies and immerse myself in the vibrant community of Data Science enthusiasts. Let's build something amazing together!</h3><br/>
+<h3 align="center">I am passionate about leveraging technology to solve complex problems, optimize operations, and drive innovation. Continuously learning and exploring emerging trends in AI and automation, I aim to contribute to meaningful projects across data science, RPA, and web development, and I’m confident in my ability to adapt and deliver value in any tech-forward environment.</h3><br/>
 
 <p align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2V1d3NqNnFuMDJiN3U1bHFnNzRtbDFvOXV5emZyMnd3YmoxcjM4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BJG1tEnvt8AzzQQxja/giphy.gif" align="center" width="800" height="624" alt="walking man">
