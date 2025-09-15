@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Rasintha</h1>
 
-<h3 align="center">'I am a tech-driven problem solver with a strong foundation in data analytics, RPA development, and modern web technologies. With hands-on experience automating business processes using UiPath, building responsive frontend applications with React, and applying machine learning tools for data-driven insights, I bring a versatile and practical skill set.</h3>
+<h3 align="center">Tech-driven problem solver with a strong foundation in data analytics and BI—Power BI (DAX, Power Query), SQL, Python, and Excel/VBA who builds clear, decision-ready dashboards and models. I also specialise in Data Science & Machine Learning using pandas, NumPy, SciPy, scikit-learn, and TensorFlow (with evaluation via cross-validation/AUC) and visualisation with matplotlib, applying practical modelling and feature engineering to turn messy data into reliable, actionable insights. I also develop clean, responsive React front-end tools when a lightweight UI is needed.</h3>
 
-<h3 align="center">I also have advanced knowledge of Excel and Power BI for data analysis and visualization. Over the years, I have supported cross functional teams in both freelance and collaborative roles, contributing to a wide range of projects, from streamlining administrative tasks through automation to delivering full-scale digital and analytical solutions.</h3>
+<h3 align="center">Beyond my core BI work, I’ve partnered with cross-functional teams—both freelance and in-house to turn open-ended business questions into practical analytical products. My projects have ranged from quick, ad-hoc analyses and lightweight prototypes to full deliveries with clear definitions, documentation, and stakeholder training. I focus on simplifying processes, improving reporting cadence, and packaging insights so they’re easy to adopt and sustain—helping teams cut manual effort and make faster, better decisions.</h3>
 
 <h3 align="center">I am passionate about leveraging technology to solve complex problems, optimize operations, and drive innovation. Continuously learning and exploring emerging trends in AI and automation, I aim to contribute to meaningful projects across data science, RPA, and web development, and I’m confident in my ability to adapt and deliver value in any tech-forward environment.</h3><br/>
 
@@ -23,20 +23,20 @@
       <p>- Creating a modular and scalable architecture for a multi-category online marketplace, incorporating the latest full-stack development technologies</p>
 
 - 🌱 I’m currently learning 
-      <p>- Advanced web development techniques and mastering full-stack frameworks</p>
-      <p>- Applying statistical modeling and business logic for practical applications in web development</p>
-      <p>- Implementing efficient data handling processes in web applications for optimal performance</p>
-      <p>- Deep learning techniques and neural networks</p>
+      <p>- MSc Data Science (Kingston University London, part-time; expected 2026)</p>
+      <p>- BEng Software Engineering (London Metropolitan University, part-time; expected 2026)</p>
+      <p>- Data </p>
+      <p>- IBM Generative AI Engineering Professional Certificate</p>
 
 - 👯 I’m looking to collaborate on 
-      <p>- Open-source full-stack development projects</p>
-      <p>- Researching and implementing innovative web development practices</p>
-      <p>- Participating in hackathons or coding competitions focusing on building robust and scalable web applications</p>
+      <p>- Open-source ML projects: pandas / scikit-learn / TensorFlow; model baselines, feature engineering, docs.</p>
+      <p>- Freelance projects: Power BI (DAX/Power Query), SQL data modelling, KPI design, executive-ready visuals.</p>
+      <p>- Temportary or Contract work: Data/BI Analyst work: building dashboards, ETL in SQL/Python, stakeholder reporting.</p>
 
 - 🤝 I’m looking for help with 
-      <p>- Fine-tuning front-end and back-end interactions to enhance user experiences</p>
-      <p>- Deploying and scaling web applications with advanced features to production environments</p>
-      <p>- Optimizing data storage and retrieval processes for improved web application efficiency</p>
+      <p>- Designing star schemas for scalable BI data models</p>
+      <p>- Training & evaluating models with scikit-learn/TensorFlow</p>
+      <p>- Visualisation polish and storytelling in Power BI / matplotlib</p>
 
 - 💬 Ask me about 
       <p>- something that can add value to everyone's lives</p>
